@@ -1,4 +1,4 @@
-# Prueba Tecnica Atlas.
+# Prueba consumo ETL a BD
 
 Instalacion de dependencias del proyecto, configurar conexiones a BD y probar ETL + API.
 
